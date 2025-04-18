@@ -27,7 +27,7 @@ mpich:
 ncurses:
 - '6'
 petsc:
-- '3.22'
+- '3.23'
 ptscotch:
 - 7.0.6
 scotch:
