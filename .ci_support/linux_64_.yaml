@@ -6,8 +6,6 @@ c_stdlib:
 - sysroot
 c_stdlib_version:
 - '2.17'
-cdt_name:
-- conda
 channel_sources:
 - conda-forge
 channel_targets:
@@ -29,9 +27,9 @@ ncurses:
 petsc:
 - '3.23'
 ptscotch:
-- 7.0.8
+- 7.0.10
 scotch:
-- 7.0.8
+- 7.0.10
 target_platform:
 - linux-64
 zip_keys:
